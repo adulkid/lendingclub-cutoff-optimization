@@ -1,0 +1,24 @@
+# 대용량 원본 데이터 — Kaggle에서 재다운로드 (README 참고)
+accepted_2007_to_2018Q4.csv
+accepted_cleaned_v1.csv
+rejected_2007_to_2018Q4.csv
+
+# 파생 예측 결과 — model.ipynb / expected_profit.ipynb 재실행 시 재생성됨
+test_2015_pd_predictions.csv
+test_2015_pd_predictions_logisticA.csv
+test_2016_pd_predictions.csv
+
+# 컬럼분류 마스터 원본(완료·보관용, 최종_feature_리스트.md로 대체됨) — 필요시 아래 줄 지우고 포함
+LendingClub_컬럼분류_최종v2.xlsx
+
+# 프로젝트 헌장(개인 작업용 — 공개 리포지토리에는 미포함)
+docs/lendingclub_project_README.md
+
+# Claude 협업 컨텍스트(개인 작업용 — 공개 리포지토리에는 미포함)
+CLAUDE.md
+
+# 노트북/OS/캐시
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
